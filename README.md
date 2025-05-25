@@ -4,12 +4,6 @@ A responsive, modern calculator web application featuring **dark and light theme
 
 ---
 
-## Demo
-
-*(Optional: add a link to your live demo if hosted somewhere like GitHub Pages, Netlify, etc.)*
-
----
-
 ## Features
 
 - **Dark and Light Theme Toggle:** Switch between themes with a smooth animated icon.
