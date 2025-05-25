@@ -75,7 +75,7 @@ Click the calculator buttons to input numbers and operations.
 ├── style.css        # CSS for styling and themes
 ├── script.js        # JavaScript for calculator logic and theme toggle
 └── README.md        # This file
-
+```
 
 ## Contribution
 Feel free to fork the repository, make improvements, and submit pull requests. Issues and feature requests are also welcome!
