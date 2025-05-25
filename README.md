@@ -17,7 +17,8 @@ A responsive, modern calculator web application featuring **dark and light theme
 
 ## Screenshots
 
-*(Add screenshots here to showcase your app UI in both themes)*
+## Dark Theme Mode
+![Calculator ScreenShot 1](Images/Screenshot1.png)
 
 ---
 
