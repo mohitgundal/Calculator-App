@@ -1,5 +1,5 @@
 const display = document.querySelector('input[name="display"]');
-const historyList = document.getElementById('history-list');
+const historyList = document.getElementById("history-list");
 let history = [];
 
 // Update display value
@@ -9,7 +9,7 @@ function appendToDisplay(value) {
 
 // Clear display
 function clearDisplay() {
-  display.value = '';
+  display.value = "";
 }
 
 // Delete last character
@@ -17,31 +17,18 @@ function deleteLast() {
   display.value = display.value.slice(0, -1);
 }
 
-// Calculate and update display + history
-// function calculate() {
-//   try {
-//     const expression = display.value;
-//     const result = eval(expression); // Use with caution; safe for small calculators
-//     display.value = result;
-//     updateHistory(expression, result);
-//   } catch (error) {
-//     display.value = 'Error';
-//   }
-// }
-
 function calculate() {
   try {
     const expression = display.value;
     const result = eval(expression);
-    if (expression !== '') {
+    if (expression !== "") {
       display.value = Number(result).toLocaleString("en-US"); // ✅ Add this line
       updateHistory(expression, result);
     }
   } catch (error) {
-    display.value = 'Error';
+    display.value = "Error";
   }
 }
-
 
 // Update and render history
 function updateHistory(expression, result) {
@@ -52,41 +39,13 @@ function updateHistory(expression, result) {
 }
 
 function renderHistory() {
-  historyList.innerHTML = '';
-  history.forEach(entry => {
-    const li = document.createElement('li');
+  historyList.innerHTML = "";
+  history.forEach((entry) => {
+    const li = document.createElement("li");
     li.textContent = entry;
     historyList.appendChild(li);
   });
 }
-
-
-// function toggleTheme() {
-//   const body = document.body;
-//   if (body.classList.contains("light-theme")) {
-//     body.classList.remove("light-theme");
-//     body.classList.add("dark-theme");
-//   } else {
-//     body.classList.remove("dark-theme");
-//     body.classList.add("light-theme");
-//   }
-// }
-
-
-// function toggleTheme() {
-//   const body = document.body;
-//   const btn = document.getElementById("theme-btn");
-
-//   body.classList.toggle("light-theme");
-//   body.classList.toggle("dark-theme");
-
-//   // Change the icon
-//   if (body.classList.contains("light-theme")) {
-//     btn.textContent = "🌞";
-//   } else {
-//     btn.textContent = "🌙";
-//   }
-// }
 
 function toggleTheme() {
   const body = document.body;
@@ -103,13 +62,10 @@ function toggleTheme() {
   }
 }
 
-
-
 // Set default theme (optional)
 window.onload = () => {
   document.body.classList.add("dark-theme");
 };
-
 
 // Clear history with fade-out effect
 document.getElementById("clear-history").addEventListener("click", () => {
