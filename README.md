@@ -60,15 +60,16 @@ You can simply double-click the index.html file or serve it with a local server 
 ## How to Use
 Click the calculator buttons to input numbers and operations.
 
--Press = to get the result.
--Use AC to clear the display.
--Use DE to delete the last character.
--Click the moon/sun icon to toggle between dark and light themes.
--View the last 10 calculations in the history section.
--Click the trash/delete icon in the history section to clear the entire calculation history.
+- Press = to get the result.
+- Use AC to clear the display.
+- Use DE to delete the last character.
+- Click the moon/sun icon to toggle between dark and light themes.
+- View the last 10 calculations in the history section.
+- Click the trash/delete icon in the history section to clear the entire calculation history.
 
 
 ## Folder Structure
+```plaintext
 /
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling and themes
