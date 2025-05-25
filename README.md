@@ -20,6 +20,12 @@ A responsive, modern calculator web application featuring **dark and light theme
 ## Dark Theme Mode
 ![Calculator ScreenShot 1](Images/Screenshot1.png)
 
+## Light Theme
+![Calculator ScreenShot 2](Images/Screenshot2.png)
+
+## Dark Theme + History Feature
+![Calculator ScreenShot 3](Images/Screenshot3.png)
+
 ---
 
 ## Technologies Used
