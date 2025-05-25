@@ -40,7 +40,7 @@ A responsive, modern calculator web application featuring **dark and light theme
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mohitgundal/Calculator-App.git
 ```
 
 
