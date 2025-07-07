@@ -1,27 +1,49 @@
 # Themed Calculator App
 
-A responsive, modern calculator web application featuring **dark and light themes**, **calculation history**, and a clean user interface. Built using **vanilla HTML, CSS, and JavaScript**.
+![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/Calculator-App?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/Calculator-App?style=social)
+![GitHub License](https://img.shields.io/github/license/mohitgundal/Calculator-App)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohitgundal&label=Repo+Views&color=blue)
+
+A sleek and modern calculator web app that supports dark/light themes, shows your last 10 calculations, and works beautifully on all devices. Built with HTML, CSS & JavaScript — no frameworks, just clean code. 🧮⚡
 
 ---
 
-## Features
+## 🚀 Features
 
-- **Dark and Light Theme Toggle:** Switch between themes with a smooth animated icon.
-- **Calculation History:** View the last 10 calculations with results.
-- **Clear History:** Ability to clear all history with a single click.
-- **Responsive Design:** Works well on both desktop and mobile devices.
-- **Basic Calculator Functions:** Addition, subtraction, multiplication, division, decimal support, clear, and delete.
-- **User-friendly UI:** Clean, modern look with smooth transitions.
-
----
-
-## Screenshots
-
-*(Add screenshots here to showcase your app UI in both themes)*
+- **✅Dark and Light Theme Toggle:** Switch between themes with a smooth animated icon.
+- **✅Calculation History:** View the last 10 calculations with results.
+- **✅Clear History:** Ability to clear all history with a single click.
+- **✅Responsive Design:** Works well on both desktop and mobile devices.
+- **✅Basic Calculator Functions:** Addition, subtraction, multiplication, division, decimal support, clear, and delete.
+- **✅User-friendly UI:** Clean, modern look with smooth transitions.
 
 ---
 
-## Technologies Used
+## 🌐 Live Demo  
+👉 [Try it here](https://your-demo-link.netlify.app)
+
+---
+
+## 📸Screenshots
+
+## 🌙 Dark Mode
+![Calculator ScreenShot 1](Images/Screenshot1.png)
+
+## ☀️ Light Mode
+![Calculator ScreenShot 2](Images/Screenshot2.png)
+
+## 🧠 History in Action
+![Calculator ScreenShot 3](Images/Screenshot3.png)
+
+---
+
+### 🎥 Demo in Action
+![Calculator Demo](./Images/demo.gif)
+
+---
+
+## 🛠 Tech Stack
 
 - **HTML5** — Structure and markup
 - **CSS3** — Styling, including CSS variables for theme support and responsiveness
@@ -29,7 +51,7 @@ A responsive, modern calculator web application featuring **dark and light theme
 
 ---
 
-## Installation and Usage
+## 📥 Getting Started
 
 1. **Clone the repository:**
 
@@ -51,41 +73,43 @@ You can simply double-click the index.html file or serve it with a local server 
 
 
 
-## How to Use
+## 📘 How to Use
 Click the calculator buttons to input numbers and operations.
 
-- Press = to get the result.
-- Use AC to clear the display.
-- Use DE to delete the last character.
-- Click the moon/sun icon to toggle between dark and light themes.
-- View the last 10 calculations in the history section.
-- Click the trash/delete icon in the history section to clear the entire calculation history.
+- Use buttons to input values and operations
+- = calculates the result
+- AC clears the entire input
+- DE deletes the last digit
+- 🌓 icon toggles theme
+- View last 10 calculations in the history pane
+- 🗑️ deletes all history
 
 
-## Folder Structure
+## 📁 Folder Structure
 ```plaintext
-/
+Calculator-App/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling and themes
 ├── script.js        # JavaScript for calculator logic and theme toggle
 └── README.md        # This file
 ```
 
-## Contribution
-Feel free to fork the repository, make improvements, and submit pull requests. Issues and feature requests are also welcome!
+## 🤝 Contribution
+Contributions are welcome!
+- 🍴 Fork the repo
+- 🔧 Make your changes
+- 📩 Submit a pull request
+Issues and feature ideas are also appreciated.
+
+## 📄 License
+Licensed under the MIT License – see the LICENSE file for details.
 
 
-## License
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 🙋‍♂️ Author  
+Made with ❤️ by **Mohit Gundal**
+Let’s connect: 
+📫 [LinkedIn](https://www.linkedin.com/in/mohitbuilds/) • 🌐 [mohitbuilds.com](https://mohitbuilds.com) • 📷 [Instagram](https://www.instagram.com/_mohitbuilds/)
 
 
-## Contact
-Created by Mohit Gundal. Feel free to reach out for suggestions or collaborations!
-
-
-## Thank you for checking out this project! 😊
----
-
-Would you like me to help you customize this further, for example, adding badges, or writing a shorter summary?
-
-
+## 🙏 Thank you for visiting!
+If you found this project helpful, consider giving it a ⭐ on GitHub — it helps a lot!
