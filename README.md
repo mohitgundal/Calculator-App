@@ -1,6 +1,11 @@
 # Themed Calculator App
 
-A responsive, modern calculator web application featuring **dark and light themes**, **calculation history**, and a clean user interface. Built using **vanilla HTML, CSS, and JavaScript**.
+![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/Calculator-App?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/Calculator-App?style=social)
+![GitHub License](https://img.shields.io/github/license/mohitgundal/Calculator-App)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohitgundal&label=Repo+Views&color=blue)
+
+A sleek and modern calculator web app that supports dark/light themes, shows your last 10 calculations, and works beautifully on all devices. Built with HTML, CSS & JavaScript — no frameworks, just clean code. 🧮⚡
 
 ---
 
@@ -12,6 +17,11 @@ A responsive, modern calculator web application featuring **dark and light theme
 - **✅Responsive Design:** Works well on both desktop and mobile devices.
 - **✅Basic Calculator Functions:** Addition, subtraction, multiplication, division, decimal support, clear, and delete.
 - **✅User-friendly UI:** Clean, modern look with smooth transitions.
+
+---
+
+## 🌐 Live Demo  
+👉 [Try it here](https://your-demo-link.netlify.app)
 
 ---
 
@@ -28,6 +38,11 @@ A responsive, modern calculator web application featuring **dark and light theme
 
 ---
 
+### 🎥 Demo in Action
+![Calculator Demo](./Images/demo.gif)
+
+---
+
 ## 🛠 Tech Stack
 
 - **HTML5** — Structure and markup
@@ -35,10 +50,6 @@ A responsive, modern calculator web application featuring **dark and light theme
 - **JavaScript (ES6)** — Logic for calculator operations, theme toggling, and history management
 
 ---
-
-## 🧪 Live Demo
-🔗 [Click here to try the live app](https://mohitgundal.github.io/Calculator-App/)
-
 
 ## 📥 Getting Started
 
@@ -94,11 +105,11 @@ Issues and feature ideas are also appreciated.
 Licensed under the MIT License – see the LICENSE file for details.
 
 
-## 👋 Connect with Me
-Made with ❤️ by Mohit Gundal
-
+## 🙋‍♂️ Author  
+Made with ❤️ by **Mohit Gundal**
+Let’s connect: 
 📫 [LinkedIn](https://www.linkedin.com/in/mohitbuilds/) • 🌐 [mohitbuilds.com](https://mohitbuilds.com) • 📷 [Instagram](https://www.instagram.com/_mohitbuilds/)
 
 
-💡 Thank you for visiting! If you found this project helpful, give it a ⭐ on GitHub!
-
+## 🙏 Thank you for visiting!
+If you found this project helpful, consider giving it a ⭐ on GitHub — it helps a lot!
