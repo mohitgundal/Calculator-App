@@ -96,6 +96,7 @@ Licensed under the MIT License – see the LICENSE file for details.
 
 ## 👋 Connect with Me
 Made with ❤️ by Mohit Gundal
+
 📫 [LinkedIn](https://www.linkedin.com/in/mohitbuilds/) • 🌐 [mohitbuilds.com](https://mohitbuilds.com) • 📷 [Instagram](https://www.instagram.com/_mohitbuilds/)
 
 
