@@ -37,7 +37,7 @@ A responsive, modern calculator web application featuring **dark and light theme
 ---
 
 ## 🧪 Live Demo
-🔗 [Click here to try the live app](https://calculator-app-mohitgundal.netlify.app)
+🔗 [Click here to try the live app](https://mohitgundal.github.io/Calculator-App/)
 
 
 ## 📥 Getting Started
