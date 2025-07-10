@@ -27,18 +27,18 @@ A sleek and modern calculator web app that supports dark/light themes, shows you
 
 ## 📸Screenshots
 
-## 🌙 Dark Mode
+### 🌙 Dark Mode
 ![Calculator ScreenShot 1](Images/Screenshot1.png)
 
-## ☀️ Light Mode
+### ☀️ Light Mode
 ![Calculator ScreenShot 2](Images/Screenshot2.png)
 
-## 🧠 History in Action
+### 🧠 History in Action
 ![Calculator ScreenShot 3](Images/Screenshot3.png)
 
 ---
 
-### 🎥 Demo in Action
+## 🎥 Demo in Action
 ![Calculator Demo](./Images/demo.gif)
 
 ---
